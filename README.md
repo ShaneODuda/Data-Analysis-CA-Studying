@@ -19,13 +19,19 @@ Make a Distplot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/ffd4d966-9356-4453-83c2-a445717ede25)
 
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/d7c22ce9-0fcd-4618-8fb9-7b636064cfe8)
+
 Make a Stripplot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/c7a2b5d3-09b6-4096-8597-5daef12daab6)
 
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/48273d4b-b61e-4dfd-b10f-a8122d535eac)
+
 Make a countplot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/8f0b7782-e7bc-4fe2-a0e2-7d6662eeda4e)
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/923a116a-c1d0-4da7-9cff-76bee919027c)
 
 Make a BoxPlot
 
@@ -33,6 +39,16 @@ Make a BoxPlot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/91f57792-1d2c-4fd2-b9f4-60e4d426e4d9)
 
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/05a67e96-1bbd-4331-b5fc-a95e61b4a501)
+
 Make a SwarmPlot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/78084365-9c49-466a-a9ea-ed302ca7f482)
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/8ee470a8-eea0-4919-bd58-01528df5b84a)
+
+Make a HeatMap
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/77c079b0-169d-40ff-9f6b-3e892c8a480e)
+
+Make a FacetGrid
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/ef292875-d4be-4493-8136-a73096ebb46c)
