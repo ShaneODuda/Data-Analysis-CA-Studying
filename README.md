@@ -1,3 +1,3 @@
 # Data-Analysis-CA-Studying
-file_path = "EcommerceCustomers.csv"
-customers = pd.read_csv(file_path)
+Read The Csv File 
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/01a3f07c-9618-4921-9381-ea115ed5773f)
