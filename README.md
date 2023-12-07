@@ -48,7 +48,9 @@ Make a SwarmPlot
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/8ee470a8-eea0-4919-bd58-01528df5b84a)
 
 Make a HeatMap
+
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/77c079b0-169d-40ff-9f6b-3e892c8a480e)
 
 Make a FacetGrid
+
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/ef292875-d4be-4493-8136-a73096ebb46c)
