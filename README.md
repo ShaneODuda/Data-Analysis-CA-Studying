@@ -54,3 +54,33 @@ Make a HeatMap
 Make a FacetGrid
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/ef292875-d4be-4493-8136-a73096ebb46c)
+
+Make a PairPlot
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/f80f292f-ed22-46b1-a5f5-8f09e0475753)
+
+Make a LmPlot
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/5a5fcb56-5ace-48d2-8444-7127179b1e3d)
+
+TRAINING AND TESTTING DATA
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/115b05cd-34ef-4264-8f26-1e106757c3fd)
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/e01bf001-727a-48f2-a26e-9272d37cb553)
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/447d2d39-ba2b-4c82-8422-c425a86d7702)
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/c6925cce-27a0-41d0-ba12-f8b9f2398e54)
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/b35d0d0f-7ca4-4e01-ac08-1fefd18c50f2)
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/63a555d3-63af-4999-a206-5e0a4b546052)
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/d61c03fc-4109-4e82-a304-8a80fa1ca655)
+
+
+
+
+
+
