@@ -21,6 +21,10 @@ Make a Stripplot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/c7a2b5d3-09b6-4096-8597-5daef12daab6)
 
+Make a countplot
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/8f0b7782-e7bc-4fe2-a0e2-7d6662eeda4e)
+
 Make a BoxPlot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/42acf987-c02a-4191-a40c-71ca848b7dc9)
@@ -31,5 +35,12 @@ Make a SwarmPlot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/78084365-9c49-466a-a9ea-ed302ca7f482)
 
+Make a HeatMap
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/01d4d894-62a5-4d51-9760-ca065e85b166)
+
+Make a Facet Grid
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/48d925fd-daed-4e7c-823d-d649d107a79a)
 
 
