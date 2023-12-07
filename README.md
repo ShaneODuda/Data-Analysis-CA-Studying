@@ -79,8 +79,19 @@ TRAINING AND TESTTING DATA
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/d61c03fc-4109-4e82-a304-8a80fa1ca655)
 
+Pearsons Correlation
 
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/c70bd0ce-22f4-4485-8dd5-664685a001a7)
 
+One Sample T-Test
 
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/af54f0ea-6ea3-4327-80d6-a7798f57e038)
 
+Two Sample T-Test
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/b414ba03-0742-4d88-a833-4bd178cc8f55)
+
+Paired T-Test
+
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/d1351c1e-3826-4cba-83c6-4a7da0228ab2)
 
