@@ -13,6 +13,8 @@ Make a jointplot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/37ffb506-c5f9-48e8-b771-6ef9228c02b0)
 
+![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/1c554fb3-dab5-407b-85d0-7f015934a7cd)
+
 Make a Distplot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/ffd4d966-9356-4453-83c2-a445717ede25)
@@ -34,13 +36,3 @@ Make a BoxPlot
 Make a SwarmPlot
 
 ![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/78084365-9c49-466a-a9ea-ed302ca7f482)
-
-Make a HeatMap
-
-![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/01d4d894-62a5-4d51-9760-ca065e85b166)
-
-Make a Facet Grid
-
-![image](https://github.com/ShaneODuda/Data-Analysis-CA-Studying/assets/114073749/48d925fd-daed-4e7c-823d-d649d107a79a)
-
-
